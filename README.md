@@ -6,3 +6,5 @@ This is pytorch code for paper "Haarnoja, Tuomas, et al. "Reinforcement learning
 Dependencies are opencv-python, pytorch.
 
 You may carefully adjust temperature parameter "alpha" in SoftQ class to get convergence. The code is short and easy to understand, you can try to apply to different problems
+
+The task is for red agent to go to right most position.
