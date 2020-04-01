@@ -1,13 +1,10 @@
 import math
 import random
-import gym
 import numpy as np
 import torch
 import torch.nn as nn
 import torch.optim as optim
 import torch.nn.functional as F
-from torch.distributions import Normal
-from IPython.display import clear_output
 import matplotlib.pyplot as plt
 from env_FindGoals import EnvFindGoals
 from torch.distributions.categorical import Categorical
